@@ -1,6 +1,6 @@
 {
-  "MONGO_URI": "mongodb+srv://Nikita:SMV3Pd9EvEJw6CJF@cluster0-ebc2z.mongodb.net/devConnector?retryWrites=true&w=majority",
-  "JWT_SECRET": "mysecrettoken",
-  "GITHUB_CLIENT_ID": "462e40bdbc7bd0f8c208",
-  "GITHUB_SECRET": "01f49d8b2c3117b72f59ddaa9089e3d4fd16330a"
+  "MONGO_URI": "",
+  "JWT_SECRET": "",
+  "GITHUB_CLIENT_ID": "",
+  "GITHUB_SECRET": ""
 }
